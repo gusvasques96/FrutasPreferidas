@@ -1,0 +1,15 @@
+/home/graphus/Área de trabalho/algoritmos-logica/FrutasPreferidas/obj/Debug/net8.0/FrutasPreferidas.GeneratedMSBuildEditorConfig.editorconfig
+/home/graphus/Área de trabalho/algoritmos-logica/FrutasPreferidas/obj/Debug/net8.0/FrutasPreferidas.AssemblyInfoInputs.cache
+/home/graphus/Área de trabalho/algoritmos-logica/FrutasPreferidas/obj/Debug/net8.0/FrutasPreferidas.AssemblyInfo.cs
+/home/graphus/Área de trabalho/algoritmos-logica/FrutasPreferidas/obj/Debug/net8.0/FrutasPreferidas.csproj.CoreCompileInputs.cache
+/home/graphus/Área de trabalho/algoritmos-logica/FrutasPreferidas/obj/Debug/net8.0/FrutasPreferidas.sourcelink.json
+/home/graphus/Área de trabalho/algoritmos-logica/FrutasPreferidas/bin/Debug/net8.0/FrutasPreferidas
+/home/graphus/Área de trabalho/algoritmos-logica/FrutasPreferidas/bin/Debug/net8.0/FrutasPreferidas.deps.json
+/home/graphus/Área de trabalho/algoritmos-logica/FrutasPreferidas/bin/Debug/net8.0/FrutasPreferidas.runtimeconfig.json
+/home/graphus/Área de trabalho/algoritmos-logica/FrutasPreferidas/bin/Debug/net8.0/FrutasPreferidas.dll
+/home/graphus/Área de trabalho/algoritmos-logica/FrutasPreferidas/bin/Debug/net8.0/FrutasPreferidas.pdb
+/home/graphus/Área de trabalho/algoritmos-logica/FrutasPreferidas/obj/Debug/net8.0/FrutasPreferidas.dll
+/home/graphus/Área de trabalho/algoritmos-logica/FrutasPreferidas/obj/Debug/net8.0/refint/FrutasPreferidas.dll
+/home/graphus/Área de trabalho/algoritmos-logica/FrutasPreferidas/obj/Debug/net8.0/FrutasPreferidas.pdb
+/home/graphus/Área de trabalho/algoritmos-logica/FrutasPreferidas/obj/Debug/net8.0/FrutasPreferidas.genruntimeconfig.cache
+/home/graphus/Área de trabalho/algoritmos-logica/FrutasPreferidas/obj/Debug/net8.0/ref/FrutasPreferidas.dll
